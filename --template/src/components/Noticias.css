@@ -1,3 +1,18 @@
+.noticias-principal-title {
+  text-align: center;
+  font-weight: 800;       /* Negrita extra */
+  font-size: 2.5rem;      /* Tamaño grande */
+  margin: 2rem 0;         /* Espacio arriba y abajo */
+  letter-spacing: 2px;    /* Un toque elegante */
+  text-transform: uppercase; /* Todo en mayúsculas */
+}
+
+/* Opcional: un contenedor para centrar todo el bloque */
+.noticias-wrapper {
+  width: 100%;
+  padding: 1rem;
+}
+
 .noticias-container {
   width: min(1100px, 92%);
   margin: 2rem auto;

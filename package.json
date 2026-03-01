@@ -1,0 +1,10 @@
+{
+  "name": "primerprops-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ./--template run dev",
+    "build": "npm --prefix ./--template run build",
+    "lint": "npm --prefix ./--template run lint",
+    "preview": "npm --prefix ./--template run preview"
+  }
+}
